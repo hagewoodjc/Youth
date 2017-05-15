@@ -1,0 +1,43 @@
+Hey Elyar,
+
+
+
+Here is the Youth Song System.
+
+
+
+Instructions:
+
+
+
+Change your display resolution to 1024x768.
+
+Download and extract the Youth Singing.zip file.
+
+Open the fonts folder and install the AdobeGothicStdB font.
+
+Open index.htm in Internet Explorer. It has to be in Internet Explorer.
+
+When you open that, click on Fullscreen.
+
+You can type the following characters in the song number box besides the normal song numbers:
+
+
+
+fs = fullscreen page
+
+h = home
+
+b = black screen
+
+s = scripture reading
+
+p = prayer
+
+
+
+call me if you have any questions.
+
+
+
+Adam

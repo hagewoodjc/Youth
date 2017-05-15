@@ -1,0 +1,50 @@
+
+<!-- START OF SCRIPT -->
+<!-- For more scripts visit http://www.netpedia.com -->
+
+<html>
+<head>
+
+
+
+
+<script Language="JavaScript">
+<!--
+/*
+-----------------------------------------
+|By mattias.sjoberg@swipnet.se 13/01-97 |
+|You're welcome to use/edit this script.|
+| Keep the comments and drop me a note. |
+-----------------------------------------
+| www.geocities.com/SiliconValley/7116  |
+-----------------------------------------
+Script modified by Matthew Hiatt. Copyright 2003. Email matthew.hiatt@crievehall.org for information.
+Added frame information, focus information.
+
+*/
+
+function loadpage(){
+	top.frames[0].location.href=document.frm.song.value + ".htm"; 
+}
+//-->
+</script>
+
+
+
+
+
+</head>
+
+
+<BODY bgcolor="#000000" background="Images/song#TAB.png" style="background-repeat:no-repeat; background-position:right;top">
+
+
+
+<img src="Images/chcocygLOGO.png" width="250" align="left"></img>
+<!--CCLI #860036 * Enter Song Number-->
+<div align="right">
+<form name=frm onSubmit="loadpage()">
+<input style="margin-right:48; margin-top:9; text-align:center; border:none; background-color:white; font-family:Arial, Helvetica, sans-serif; font-size:29px" align="right" name=song type=text size="1" maxlength="3">
+</form></div>
+</body>
+</html>
